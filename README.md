@@ -16,5 +16,7 @@
 - Telegram: [@krevetkqqq](https://t.me/krevetkqqq) 📱
 
 // Monkey sees code
+
 // Neuron activated
+
 // Monkey copy code
