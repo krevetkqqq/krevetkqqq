@@ -17,6 +17,6 @@
 
 // Monkey sees code
 
-// Neuron activated
+// Neuron activation
 
-// Monkey copy code
+// Monkey copies code
