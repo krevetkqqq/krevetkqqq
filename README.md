@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 О себе
 
-<!--
-**krevetkqqq/krevetkqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я — backend-разработчик, волонтер в команде **Imperial Space** для проекта **Spellward**.
 
-Here are some ideas to get you started:
+### 🚀 Что я умею?
+- Программирую на **Python** 🐍 и **C#** 🦅
+- Работаю с **.NET 8/9** ⚡️
+- Люблю строить мощные серверные решения и автоматизировать всё, что только можно!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Мои, пока-что лучшие, open-source проекты:
+- [SW-Public](https://github.com/krevetkqqq/SW-Public)
+- [red-first-bot](https://github.com/krevetkqqq/red-first-bot)
+
+### 🌐 Связаться со мной:
+- Discord: **krevetkqqq** 🟦
+- Telegram: [@krevetkqqq](https://t.me/krevetkqqq) 📱
+
+// Monkey sees code
+// Neuron activated
+// Monkey copy code
