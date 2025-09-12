@@ -13,7 +13,7 @@
 
 ### 🌐 Связаться со мной:
 - Discord: **krevetkqqq** 🟦
-- Telegram: [@krevetkqqq](https://t.me/krevetkqqq) 📱
+- Telegram: [@ilykrev](https://t.me/ilykrev) 📱
 
 // Monkey sees code
 
