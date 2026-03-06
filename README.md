@@ -13,6 +13,6 @@
 
 ### 🌐 Связаться со мной:
 - Discord: **krevetkqqq** 🟦
-- Telegram: [@ilykrev](https://t.me/ilykrev) 📱
+- Telegram: [@ilykrev](https://t.me/krevetkqqq) 📱
 
 ![](https://github.com/krevetkqqq/krevetkqqq/blob/main/photo_2026-02-27_22-47-32.jpg)
