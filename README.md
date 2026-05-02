@@ -13,5 +13,5 @@
 
 ### 🌐 Связаться со мной:
 - Discord: **krevetkqqq** 🟦
-- Telegram: [@ilykrev](https://t.me/krevetkqqq) 📱
+- Telegram: [@krevetkqqq](https://t.me/krevetkqqq) 📱
 
