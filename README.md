@@ -1,17 +1,14 @@
-# 👨‍💻 О себе
+# Илья Антошин
 
-Привет! Я — backend-разработчик
+Информационная безопасность: web-пентест, bug bounty, преподавание.
 
-### 🚀 Что я умею?
-- Программирую на **Python** 🐍 и **C#** 🦅
-- Работаю с **.NET любой версии** ⚡️
-- Люблю строить мощные серверные решения и автоматизировать всё, что только можно!
+- **Standoff 365** — принята уязвимость Medium: broken access control в B2B SaaS
+  (неавторизованный эндпоинт отдавал API-ключи всех клиентов).
+- **W0LV3S_CTF** — преподаватель кружка по ИБ в Тамбове, автор программы и заданий.
+- **C# open source** — 100+ коммитов в `imperial-space/SW-Public`.
+- **TryHackMe** — [krevetkq](https://tryhackme.com/p/krevetkq).
 
-### 📂 Мои, пока-что лучшие, open-source проекты:
-- [SW-Public](https://github.com/krevetkqqq/SW-Public)
-- [red-first-bot](https://github.com/krevetkqqq/red-first-bot)
-- [chat](http://github.com/krevetkqqq/chat)
-### 🌐 Связаться со мной:
-- Discord: **krevetkqqq** 🟦
-- Telegram: [@krevetkqqq](https://t.me/krevetkqqq) 📱
+Стек: Linux, Python, Burp Suite, nmap, Wireshark, Active Directory, C.
+Сейчас: web-уязвимости (access control, бизнес-логика), AD, pwn.
 
+Telegram: [@krevetkqqq](https://t.me/krevetkqqq) — открыт к стажировкам и part-time удалённо.
